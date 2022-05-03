@@ -1,4 +1,4 @@
-# Abuut Me
+# ✅ About Me
 
 i am Mohamud Abshir , I am a professional Front-End developer, with almost
 `2 years` of experience in developing and designing web applications, landing
@@ -13,11 +13,11 @@ of`Digital Marketing`
 
 ---
 
-# 🚀 My Strapi Backend
+## Strapi Backend
 
-This is the strapi back-end that powers my personal portfolio website, incase you didn't visit [My website](https://mhbaando.com).
+This repo is the strapi back-end that powers my personal portfolio website, incase you didn't visit [My website](https://mhbaando.com).
 
-### `Strapi supports my website`
+### Strapi supports my website
 
 Strapi porvides to my wesbite a palce that i can dynamically store [My Recent Porjects](https://mhbaando.com/projects), My Cliens and Thier Testimonial.
 
@@ -34,7 +34,7 @@ please also check my social networks with this tag`mhbaando`
 
 ## 📸 Here are some screen shots
 
-![](public/uploads/mhbaando.png)
+![](src/uploads/mhbaando.png)
 
 ---
 
